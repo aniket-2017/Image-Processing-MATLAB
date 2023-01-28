@@ -1,1 +1,0 @@
-# Histogram-generation-and-equalization
